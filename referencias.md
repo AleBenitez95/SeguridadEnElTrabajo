@@ -8,4 +8,3 @@ https://blog.uvirtual.org/riesgos-tecnologicos-y-de-seguridad-en-el-trabajo
 Ciberseguridad y prevención de riesgos en el manejo de datos:
 
 https://protecciondatos-lopd.com/empresas/ciberseguridad-privacidad/
-gsgfds
