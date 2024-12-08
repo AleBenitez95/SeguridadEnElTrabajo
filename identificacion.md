@@ -8,7 +8,7 @@ Una evaluación integral debe considerar factores como la disposición ergonómi
 
 ## Puntos clave:
 
-** Riesgos físicos:** Lesiones por malas posturas o equipos mal ubicados.
+**Riesgos físicos:** Lesiones por malas posturas o equipos mal ubicados.
 
 **Riesgos tecnológicos:** Ciberataques y software desactualizado.
 
