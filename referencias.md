@@ -1,3 +1,8 @@
+Identificación riesgos laborales:
+https://www.unir.net/revista/ingenieria/riesgos-laborales-informatica/
+
+Normativas:
+
 
 Prevención de riesgos ergonómicos y tecnológicos en el trabajo:
 
