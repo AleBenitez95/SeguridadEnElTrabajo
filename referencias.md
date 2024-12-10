@@ -2,6 +2,7 @@ Identificación riesgos laborales:
 https://www.unir.net/revista/ingenieria/riesgos-laborales-informatica/
 
 Normativas:
+https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191
 
 
 Prevención de riesgos ergonómicos y tecnológicos en el trabajo:
