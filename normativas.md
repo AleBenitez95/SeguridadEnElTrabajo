@@ -1,3 +1,7 @@
+# Normativas
+
+![img45](img/img45.jpg)
+
 La implementación de normativas sobre seguridad informática en el ámbito laboral es clave para proteger la información y prevenir vulnerabilidades. 
 
 Entre las más relevantes se encuentran las regulaciones de protección de datos personales, que garantizan el adecuado manejo de la información de empleados y clientes, y los estándares internacionales de gestión de la seguridad, que establecen medidas claras para proteger los sistemas de las organizaciones. 
