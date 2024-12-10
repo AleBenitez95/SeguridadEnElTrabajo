@@ -1,3 +1,6 @@
+PDF adjuntado en la moodle de la asignatura
+
+
 [Identificación riesgos laborales](https://www.unir.net/revista/ingenieria/riesgos-laborales-informatica/)
 
 [Normativas](https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191)
