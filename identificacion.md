@@ -1,3 +1,8 @@
+# Identificación riesgos laborales
+
+
+![img46](img/img46.jpg)
+
 La identificación de riesgos laborales en entornos informáticos es esencial para prevenir accidentes y problemas de seguridad. 
 
 Entre los principales riesgos destacan los físicos, relacionados con la ergonomía y el manejo de equipos; los eléctricos, debido a sobrecargas o dispositivos defectuosos; y los tecnológicos, como vulnerabilidades a ciberataques por software no actualizado. 
