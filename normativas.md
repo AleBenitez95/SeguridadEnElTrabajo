@@ -8,6 +8,8 @@ Entre las más relevantes se encuentran las regulaciones de protección de datos
 
 Estas normativas buscan mitigar riesgos de ciberseguridad, asignar responsabilidades dentro de la empresa y asegurar el cumplimiento legal mediante protocolos estrictos y formación continua del personal.
 
+----------------------------------
+
 **Normas relevantes:** Regulaciones de protección de datos y estándares internacionales de seguridad.
 
 **Principales objetivos:** Proteger la privacidad, mitigar riesgos y asegurar el cumplimiento legal.
